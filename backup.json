@@ -1,0 +1,134 @@
+{ 
+    "_id" : ObjectId("62949e924306af78698b2a7f"), 
+    "archivedAt" : null, 
+    "boxes" : [
+
+    ], 
+    "createdAt" : NumberLong(1653906780364), 
+    "createdBy" : {
+
+    }, 
+    "labels" : [
+        {
+            "id" : "l107", 
+            "title" : "Get team leaders approval ", 
+            "color" : "#54E346"
+        }, 
+        {
+            "id" : "l101", 
+            "title" : "Copy Request", 
+            "color" : "#F5DD29"
+        }, 
+        {
+            "id" : "l103", 
+            "title" : "Priority", 
+            "color" : "#eb5a46"
+        }, 
+        {
+            "id" : "l102", 
+            "title" : "One more step", 
+            "color" : "orange"
+        }, 
+        {
+            "id" : "l104", 
+            "title" : "Design Team", 
+            "color" : "#c377e0"
+        }, 
+        {
+            "id" : "l105", 
+            "title" : "Product Marketing", 
+            "color" : "#0079bf"
+        }, 
+        {
+            "id" : "l106", 
+            "title" : "Tredux Tip", 
+            "color" : "#00c2e0"
+        }
+    ], 
+    "members" : [
+        {
+            "id" : "u101", 
+            "userName" : "Rotem Spivak", 
+            "fullname" : "Rotem Spivak", 
+            "init" : "RS"
+        }, 
+        {
+            "id" : "u102", 
+            "userName" : "Yotam Tsamir", 
+            "fullname" : "Yotam Tsamir", 
+            "init" : "YT"
+        }
+    ], 
+    "style" : {
+        "backgroundImage" : "url(https://img.freepik.com/free-vector/gradient-background-vector-spring-colors_53876-117271.jpg?w=360)"
+    }, 
+    "title" : "Hello"
+}
+
+
+{ 
+    "archivedAt" : null, 
+    "boxes" : [
+
+    ], 
+    "createdAt" : NumberLong(1653906780364), 
+    "createdBy" : {
+
+    }, 
+    "labels" : [
+        {
+            "id" : "l107", 
+            "title" : "Get team leaders approval ", 
+            "color" : "#54E346"
+        }, 
+        {
+            "id" : "l101", 
+            "title" : "Copy Request", 
+            "color" : "#F5DD29"
+        }, 
+        {
+            "id" : "l103", 
+            "title" : "Priority", 
+            "color" : "#eb5a46"
+        }, 
+        {
+            "id" : "l102", 
+            "title" : "One more step", 
+            "color" : "orange"
+        }, 
+        {
+            "id" : "l104", 
+            "title" : "Design Team", 
+            "color" : "#c377e0"
+        }, 
+        {
+            "id" : "l105", 
+            "title" : "Product Marketing", 
+            "color" : "#0079bf"
+        }, 
+        {
+            "id" : "l106", 
+            "title" : "Tredux Tip", 
+            "color" : "#00c2e0"
+        }
+    ], 
+    "members" : [
+        {
+            "id" : "u101", 
+            "userName" : "Rotem Spivak", 
+            "fullname" : "Rotem Spivak", 
+            "init" : "RS"
+        }, 
+        {
+            "id" : "u102", 
+            "userName" : "Yotam Tsamir", 
+            "fullname" : "Yotam Tsamir", 
+            "init" : "YT"
+        }
+    ], 
+    "style" : {
+        "backgroundImage" : "url(https://img.freepik.com/free-vector/gradient-background-vector-spring-colors_53876-117271.jpg?w=360)"
+    }, 
+    "title" : "shlaga bigi baga!", 
+    "_id" : ObjectId("6294a0c14306af78698b2a81")
+}
