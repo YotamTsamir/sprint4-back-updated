@@ -495,3 +495,64 @@
 5/31/2022, 6:27:45 PM - DEBUG - Getting Boards
 5/31/2022, 6:28:27 PM - INFO - Server is running on port: 3030
 5/31/2022, 6:30:04 PM - DEBUG - Getting Boards
+5/31/2022, 6:35:43 PM - INFO - Server is running on port: 3030
+5/31/2022, 6:40:07 PM - INFO - Server is running on port: 3030
+5/31/2022, 6:40:12 PM - INFO - User is:  | {"_id":"62961e34975ba18bf677f166","username":"qwerqwer","fullname":"qwerqwer","email":"qerqwer"}
+5/31/2022, 6:40:12 PM - INFO - User is:  | {"_id":"62961e34975ba18bf677f166","username":"qwerqwer","fullname":"qwerqwer","email":"qerqwer"}
+5/31/2022, 6:40:12 PM - INFO - User is:  | {"_id":"62961e34975ba18bf677f166","username":"qwerqwer","fullname":"qwerqwer","email":"qerqwer"}
+5/31/2022, 6:40:13 PM - DEBUG - Getting Boards
+5/31/2022, 6:40:28 PM - DEBUG - Getting Boards
+5/31/2022, 6:40:35 PM - INFO - User is:  | {"_id":"62961e34975ba18bf677f166","username":"qwerqwer","fullname":"qwerqwer","email":"qerqwer"}
+5/31/2022, 6:40:35 PM - INFO - User is:  | {"_id":"62961e34975ba18bf677f166","username":"qwerqwer","fullname":"qwerqwer","email":"qerqwer"}
+5/31/2022, 6:40:35 PM - INFO - User is:  | {"_id":"62961e34975ba18bf677f166","username":"qwerqwer","fullname":"qwerqwer","email":"qerqwer"}
+5/31/2022, 6:40:35 PM - DEBUG - Getting Boards
+5/31/2022, 6:40:50 PM - INFO - User is:  | null
+5/31/2022, 6:40:56 PM - INFO - User is:  | null
+5/31/2022, 6:41:07 PM - DEBUG - auth.service - login with username: yotam
+5/31/2022, 6:41:07 PM - INFO - entry is | tsamir
+5/31/2022, 6:41:07 PM - INFO - match is | false
+5/31/2022, 6:41:07 PM - ERROR - Failed to Login Invalid password
+5/31/2022, 6:41:13 PM - DEBUG - auth.service - login with username: qwerqwer
+5/31/2022, 6:41:14 PM - INFO - entry is | qwerqwer
+5/31/2022, 6:41:14 PM - INFO - match is | true
+5/31/2022, 6:41:14 PM - INFO - User login:  | {"_id":"62961e34975ba18bf677f166","username":"qwerqwer","fullname":"qwerqwer","email":"qerqwer"}
+5/31/2022, 6:41:22 PM - INFO - User is:  | {"_id":"62961e34975ba18bf677f166","username":"qwerqwer","fullname":"qwerqwer","email":"qerqwer"}
+5/31/2022, 6:41:22 PM - INFO - User is:  | {"_id":"62961e34975ba18bf677f166","username":"qwerqwer","fullname":"qwerqwer","email":"qerqwer"}
+5/31/2022, 6:41:23 PM - INFO - User is:  | {"_id":"62961e34975ba18bf677f166","username":"qwerqwer","fullname":"qwerqwer","email":"qerqwer"}
+5/31/2022, 6:41:23 PM - DEBUG - Getting Boards
+5/31/2022, 7:40:48 PM - DEBUG - auth.service - signup with username: asdfasdf, fullname: asdfasdf
+5/31/2022, 7:40:48 PM - DEBUG - auth.service - signup with username: asdfasdf, fullname: asdfasdf
+5/31/2022, 7:40:48 PM - DEBUG - Getting Boards
+5/31/2022, 7:40:49 PM - DEBUG - auth.route - new account created: {"username":"asdfasdf","password":"$2b$10$kkzB.pwdKNEmIE/wb3blSOEVITwcIjOqvTBqX6/1Wlt9Xxwjc.Tim","fullname":"asdfasdf","email":"asdfasdf","_id":"629645114eca4d1b3a01a774"}
+5/31/2022, 7:40:49 PM - DEBUG - auth.service - login with username: asdfasdf
+5/31/2022, 7:40:49 PM - DEBUG - auth.route - new account created: {"username":"asdfasdf","password":"$2b$10$FGZqCYGnMzku5U6mzoNobu6RXeBXzPUmJh46nHVf2F4Qx9F6dumfm","fullname":"asdfasdf","email":"asdfasdf","_id":"629645114eca4d1b3a01a775"}
+5/31/2022, 7:40:49 PM - DEBUG - auth.service - login with username: asdfasdf
+5/31/2022, 7:40:49 PM - INFO - entry is | asdfasdf
+5/31/2022, 7:40:49 PM - INFO - entry is | asdfasdf
+5/31/2022, 7:40:49 PM - INFO - match is | true
+5/31/2022, 7:40:49 PM - INFO - User login:  | {"_id":"62961df236a74f994882d0c1","username":"asdfasdf","fullname":"asdfasdf","email":"asdfasdf"}
+5/31/2022, 7:40:49 PM - INFO - match is | true
+5/31/2022, 7:40:49 PM - INFO - User login:  | {"_id":"62961df236a74f994882d0c1","username":"asdfasdf","fullname":"asdfasdf","email":"asdfasdf"}
+5/31/2022, 7:40:56 PM - INFO - User is:  | {"_id":"62961df236a74f994882d0c1","username":"asdfasdf","fullname":"asdfasdf","email":"asdfasdf"}
+5/31/2022, 7:40:56 PM - INFO - User is:  | {"_id":"62961df236a74f994882d0c1","username":"asdfasdf","fullname":"asdfasdf","email":"asdfasdf"}
+5/31/2022, 7:40:56 PM - INFO - User is:  | {"_id":"62961df236a74f994882d0c1","username":"asdfasdf","fullname":"asdfasdf","email":"asdfasdf"}
+5/31/2022, 7:40:56 PM - DEBUG - Getting Boards
+5/31/2022, 7:41:11 PM - INFO - User is:  | null
+5/31/2022, 7:41:21 PM - DEBUG - auth.service - login with username: asdfasdf
+5/31/2022, 7:41:21 PM - INFO - entry is | asdfasdf
+5/31/2022, 7:41:21 PM - INFO - match is | true
+5/31/2022, 7:41:21 PM - INFO - User login:  | {"_id":"62961df236a74f994882d0c1","username":"asdfasdf","fullname":"asdfasdf","email":"asdfasdf"}
+5/31/2022, 7:41:25 PM - DEBUG - Getting Boards
+5/31/2022, 7:41:33 PM - INFO - User is:  | {"_id":"62961df236a74f994882d0c1","username":"asdfasdf","fullname":"asdfasdf","email":"asdfasdf"}
+5/31/2022, 7:41:33 PM - INFO - User is:  | {"_id":"62961df236a74f994882d0c1","username":"asdfasdf","fullname":"asdfasdf","email":"asdfasdf"}
+5/31/2022, 7:41:33 PM - INFO - User is:  | {"_id":"62961df236a74f994882d0c1","username":"asdfasdf","fullname":"asdfasdf","email":"asdfasdf"}
+5/31/2022, 7:41:33 PM - DEBUG - Getting Boards
+5/31/2022, 10:52:36 PM - INFO - Server is running on port: 3030
+5/31/2022, 10:54:02 PM - INFO - Server is running on port: 3030
+5/31/2022, 10:54:07 PM - INFO - Server is running on port: 3030
+6/1/2022, 12:10:25 AM - INFO - Server is running on port: 3030
+6/1/2022, 12:28:46 AM - DEBUG - Getting Boards
+6/1/2022, 9:15:14 AM - DEBUG - Getting Boards
+6/1/2022, 9:15:27 AM - DEBUG - Getting Boards
+6/1/2022, 11:21:22 AM - INFO - Server is running on port: 3030
+6/1/2022, 11:34:12 AM - INFO - Server is running on port: 3030

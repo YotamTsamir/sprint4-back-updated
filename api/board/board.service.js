@@ -52,7 +52,7 @@ async function deleteTask(boardId,boxId,taskToDelId) {
     const currTaskIdx = board.boxes[currBoxIdx].tasks.findIndex(task => {
         return task.id === taskToDelId
     })
-    updatedBoard.boxes[currTaskIdx].tasks.splice(currTaskIdx,1)
+    updatedBoard.boxes[currBoxIdx].tasks.splice(currTaskIdx,1)
     return updatedBoard
 }
 
