@@ -30,7 +30,7 @@ async function signup(username, password, fullname,email) {
     if (!username || !password || !fullname || !email) return Promise.reject('fullname, username and password are required!')
 
     const hash = await bcrypt.hash(password, saltRounds)
-    return userService.add({ username, password: hash, fullname,email,img:'' })
+    return userService.add({ username, password: hash, fullname,email,avatar:'' })
 }
 
 function getLoginToken(user) {

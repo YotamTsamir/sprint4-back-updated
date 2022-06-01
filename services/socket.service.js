@@ -14,21 +14,21 @@ function setupSocketAPI(http) {
         socket.on('disconnect', socket => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
         })
-        socket.on('chat topic', topic => {
-            if (socket.myTopic === topic) return;
-            if (socket.myTopic) {
-                socket.leave(socket.myTopic)
-                logger.info(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
+        socket.on('set board', boardId => {
+            if (socket.myBoard === boardId) return;
+            if (socket.myBoard) {
+                socket.leave(socket.myBoard)
+                logger.info(`Socket is leaving topic ${socket.myBoard} [id: ${socket.id}]`)
             }
-            socket.join(topic)
-            socket.myTopic = topic
+            socket.join(boardId)
+            socket.myBoard = boardId
         })
-        socket.on('chat newMsg', msg => {
-            logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
+        socket.on('change board', board => {
+            logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myBoard}`)
             // emits to all sockets:
             // gIo.emit('chat addMsg', msg)
             // emits only to sockets in the same room
-            gIo.to(socket.myTopic).emit('chat addMsg', msg)
+            gIo.to(socket.myBoard).emit('load board', board)
         })
         socket.on('user-typing',userTyping => {
             logger.info('this is doing something',userTyping)

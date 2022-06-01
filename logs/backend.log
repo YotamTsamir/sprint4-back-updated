@@ -556,3 +556,294 @@
 6/1/2022, 9:15:27 AM - DEBUG - Getting Boards
 6/1/2022, 11:21:22 AM - INFO - Server is running on port: 3030
 6/1/2022, 11:34:12 AM - INFO - Server is running on port: 3030
+6/1/2022, 11:37:31 AM - INFO - Server is running on port: 3030
+6/1/2022, 11:59:25 AM - DEBUG - auth.service - login with username: qwerqwer
+6/1/2022, 11:59:25 AM - ERROR - Failed to Login Invalid username or password
+6/1/2022, 11:59:56 AM - DEBUG - auth.service - login with username: qwerqwer
+6/1/2022, 11:59:56 AM - ERROR - Failed to Login Invalid username or password
+6/1/2022, 12:00:35 PM - DEBUG - auth.service - login with username: qwerqwer
+6/1/2022, 12:00:35 PM - ERROR - Failed to Login Invalid username or password
+6/1/2022, 12:00:38 PM - DEBUG - auth.service - login with username: qwerqwer
+6/1/2022, 12:00:38 PM - ERROR - Failed to Login Invalid username or password
+6/1/2022, 12:01:13 PM - DEBUG - auth.service - login with username: qwerqwer
+6/1/2022, 12:01:13 PM - ERROR - Failed to Login Invalid username or password
+6/1/2022, 12:01:15 PM - DEBUG - auth.service - login with username: qwerqwer
+6/1/2022, 12:01:15 PM - ERROR - Failed to Login Invalid username or password
+6/1/2022, 12:01:24 PM - DEBUG - auth.service - signup with username: qwerqwer, fullname: qwerqwer
+6/1/2022, 12:01:24 PM - DEBUG - auth.service - signup with username: qwerqwer, fullname: qwerqwer
+6/1/2022, 12:01:24 PM - DEBUG - Getting Boards
+6/1/2022, 12:01:24 PM - DEBUG - auth.route - new account created: {"username":"qwerqwer","password":"$2b$10$iupISL8nofLTfbBG4eEM5O4rjwPVI8xGxZQ5gA2WP0r6G8U0nI2.S","fullname":"qwerqwer","email":"qwerqwer","_id":"62972ae453584fc56abe6d26"}
+6/1/2022, 12:01:24 PM - DEBUG - auth.service - login with username: qwerqwer
+6/1/2022, 12:01:24 PM - DEBUG - auth.route - new account created: {"username":"qwerqwer","password":"$2b$10$VT9Y2OAMVyEjq30r88jBW.CiHmZC7MpzdkyzXx/jldVBMrzx/Jlba","fullname":"qwerqwer","email":"qwerqwer","_id":"62972ae453584fc56abe6d27"}
+6/1/2022, 12:01:24 PM - DEBUG - auth.service - login with username: qwerqwer
+6/1/2022, 12:01:24 PM - INFO - entry is | qwerqwer
+6/1/2022, 12:01:24 PM - INFO - entry is | qwerqwer
+6/1/2022, 12:01:24 PM - INFO - match is | true
+6/1/2022, 12:01:24 PM - INFO - User login:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 12:01:24 PM - INFO - match is | true
+6/1/2022, 12:01:24 PM - INFO - User login:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 12:02:32 PM - DEBUG - Getting Boards
+6/1/2022, 12:02:41 PM - DEBUG - Getting Boards
+6/1/2022, 12:02:54 PM - INFO - User is:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 12:02:54 PM - INFO - User is:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 12:02:54 PM - INFO - User is:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 12:02:54 PM - DEBUG - Getting Boards
+6/1/2022, 12:02:56 PM - INFO - User is:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 12:02:56 PM - INFO - User is:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 12:02:56 PM - INFO - User is:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 12:02:57 PM - DEBUG - Getting Boards
+6/1/2022, 12:03:02 PM - DEBUG - auth.service - login with username: qwerqwer
+6/1/2022, 12:03:02 PM - INFO - entry is | qwerqwer
+6/1/2022, 12:03:02 PM - INFO - match is | true
+6/1/2022, 12:03:02 PM - INFO - User login:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 12:04:08 PM - DEBUG - auth.service - login with username: qwerqwer
+6/1/2022, 12:04:08 PM - INFO - entry is | qwerqwer
+6/1/2022, 12:04:08 PM - INFO - match is | true
+6/1/2022, 12:04:08 PM - INFO - User login:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 12:04:57 PM - DEBUG - auth.service - login with username: qwerqwer
+6/1/2022, 12:04:57 PM - INFO - entry is | qwerqwer
+6/1/2022, 12:04:57 PM - INFO - match is | true
+6/1/2022, 12:04:57 PM - INFO - User login:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 12:05:25 PM - DEBUG - auth.service - login with username: qwerqwer
+6/1/2022, 12:05:25 PM - INFO - entry is | qwerqwer
+6/1/2022, 12:05:25 PM - INFO - match is | true
+6/1/2022, 12:05:25 PM - INFO - User login:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 12:05:40 PM - DEBUG - Getting Boards
+6/1/2022, 1:10:35 PM - DEBUG - auth.service - login with username: qwerqwer
+6/1/2022, 1:10:36 PM - INFO - entry is | qwerqwer
+6/1/2022, 1:10:36 PM - INFO - match is | true
+6/1/2022, 1:10:36 PM - INFO - User login:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 1:11:00 PM - DEBUG - Getting Boards
+6/1/2022, 1:24:33 PM - DEBUG - Getting Boards
+6/1/2022, 1:40:34 PM - INFO - Server is running on port: 3030
+6/1/2022, 1:41:23 PM - INFO - Server is running on port: 3030
+6/1/2022, 1:52:40 PM - DEBUG - Getting Boards
+6/1/2022, 3:35:14 PM - DEBUG - Getting Boards
+6/1/2022, 3:35:22 PM - DEBUG - Getting Boards
+6/1/2022, 3:38:08 PM - DEBUG - Getting Boards
+6/1/2022, 3:38:15 PM - INFO - Server is running on port: 3030
+6/1/2022, 3:39:21 PM - INFO - User is:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 3:39:21 PM - INFO - User is:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 3:39:21 PM - INFO - User is:  | {"_id":"62972ae453584fc56abe6d26","username":"qwerqwer","fullname":"qwerqwer","email":"qwerqwer"}
+6/1/2022, 3:39:21 PM - DEBUG - Getting Boards
+6/1/2022, 3:40:09 PM - DEBUG - Getting Boards
+6/1/2022, 3:43:55 PM - INFO - Server is running on port: 3030
+6/1/2022, 3:46:31 PM - INFO - Server is running on port: 3030
+6/1/2022, 3:47:41 PM - INFO - Server is running on port: 3030
+6/1/2022, 3:48:25 PM - INFO - Server is running on port: 3030
+6/1/2022, 3:48:26 PM - INFO - Server is running on port: 3030
+6/1/2022, 4:00:33 PM - INFO - Server is running on port: 3030
+6/1/2022, 4:08:43 PM - INFO - Server is running on port: 3030
+6/1/2022, 4:09:06 PM - INFO - Server is running on port: 3030
+6/1/2022, 4:17:35 PM - INFO - New connected socket [id: KL0QKvgzbT7AbtBgAAAC]
+6/1/2022, 4:17:35 PM - INFO - New connected socket [id: aevetVlrko5IWsM-AAAD]
+6/1/2022, 4:17:36 PM - INFO - Setting socket.userId = 62972ae453584fc56abe6d26 for socket [id: aevetVlrko5IWsM-AAAD]
+6/1/2022, 4:17:39 PM - INFO - New chat msg from socket [id: aevetVlrko5IWsM-AAAD], emitting to topic undefined
+6/1/2022, 4:17:53 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 4:17:53 PM - INFO - New connected socket [id: a2224Hq9nphClfTOAAAF]
+6/1/2022, 4:17:58 PM - INFO - New chat msg from socket [id: a2224Hq9nphClfTOAAAF], emitting to topic undefined
+6/1/2022, 4:18:07 PM - INFO - New chat msg from socket [id: aevetVlrko5IWsM-AAAD], emitting to topic undefined
+6/1/2022, 4:19:43 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 4:19:44 PM - INFO - New connected socket [id: BZliKMKCu4_WqAFEAAAH]
+6/1/2022, 4:19:47 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 4:19:48 PM - INFO - New connected socket [id: nzc-CQTTfliuRVRdAAAJ]
+6/1/2022, 4:19:49 PM - INFO - Setting socket.userId = 62972ae453584fc56abe6d26 for socket [id: nzc-CQTTfliuRVRdAAAJ]
+6/1/2022, 4:19:53 PM - INFO - New chat msg from socket [id: BZliKMKCu4_WqAFEAAAH], emitting to topic undefined
+6/1/2022, 4:19:59 PM - INFO - New chat msg from socket [id: BZliKMKCu4_WqAFEAAAH], emitting to topic undefined
+6/1/2022, 4:20:02 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 4:20:03 PM - INFO - New connected socket [id: w-Fb7scNBS30FJfgAAAL]
+6/1/2022, 4:20:03 PM - INFO - Setting socket.userId = 62972ae453584fc56abe6d26 for socket [id: w-Fb7scNBS30FJfgAAAL]
+6/1/2022, 4:24:19 PM - INFO - Server is running on port: 3030
+6/1/2022, 4:24:20 PM - INFO - New connected socket [id: B0vaKZwesaB5GC0tAAAC]
+6/1/2022, 4:24:20 PM - INFO - New connected socket [id: e_wMphSTeZLBVBtMAAAD]
+6/1/2022, 5:17:29 PM - INFO - New connected socket [id: 1Ex4vNuQ1By8IMXDAAAF]
+6/1/2022, 5:17:29 PM - INFO - New connected socket [id: jqbOeVWSCMX-SGITAAAH]
+6/1/2022, 5:17:30 PM - INFO - Setting socket.userId = 62972ae453584fc56abe6d26 for socket [id: 1Ex4vNuQ1By8IMXDAAAF]
+6/1/2022, 5:17:57 PM - INFO - Server is running on port: 3030
+6/1/2022, 5:17:57 PM - INFO - New connected socket [id: PPFW8nPyDMQhZj-QAAAC]
+6/1/2022, 5:17:57 PM - INFO - New connected socket [id: ahGFO2NDmQOBRLoSAAAD]
+6/1/2022, 5:17:59 PM - INFO - New connected socket [id: 8zL_X9A0ydkv3r17AAAG]
+6/1/2022, 5:17:59 PM - INFO - New connected socket [id: JCLhPcO4t_q9Ngr-AAAH]
+6/1/2022, 5:19:17 PM - INFO - Server is running on port: 3030
+6/1/2022, 5:19:17 PM - INFO - New connected socket [id: kKlp2nA_oMYKoPVwAAAB]
+6/1/2022, 5:19:18 PM - INFO - New connected socket [id: hRvKYSiqr_2Bl-PcAAAD]
+6/1/2022, 5:19:18 PM - INFO - New connected socket [id: JX63BHz3XU1mncDyAAAG]
+6/1/2022, 5:19:18 PM - INFO - New connected socket [id: ZkxfhRQ-VtVlG7QiAAAH]
+6/1/2022, 5:23:50 PM - INFO - Server is running on port: 3030
+6/1/2022, 5:23:50 PM - INFO - New connected socket [id: po4D7eMMz8mQJnXFAAAC]
+6/1/2022, 5:23:50 PM - INFO - New connected socket [id: xF1AKLwM8vE0hXYDAAAD]
+6/1/2022, 5:23:50 PM - INFO - New connected socket [id: lN-Ru7Lt_16dMz5wAAAG]
+6/1/2022, 5:23:50 PM - INFO - New connected socket [id: Nty3TMnLtNRTcsSqAAAH]
+6/1/2022, 5:23:58 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 5:23:58 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 5:23:59 PM - INFO - New connected socket [id: VXqktq-cbLdLTZD0AAAJ]
+6/1/2022, 5:23:59 PM - INFO - Setting socket.userId = 62972ae453584fc56abe6d26 for socket [id: VXqktq-cbLdLTZD0AAAJ]
+6/1/2022, 5:24:29 PM - INFO - Server is running on port: 3030
+6/1/2022, 5:24:30 PM - INFO - New connected socket [id: HtZ3MWciXv0pSwxIAAAD]
+6/1/2022, 5:24:30 PM - INFO - New connected socket [id: vFygo7ZdJpKkfOY7AAAE]
+6/1/2022, 5:24:30 PM - INFO - New connected socket [id: BUpLt1yldr6DcZjFAAAF]
+6/1/2022, 5:24:45 PM - INFO - New chat msg from socket [id: HtZ3MWciXv0pSwxIAAAD], emitting to topic undefined
+6/1/2022, 5:24:48 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 5:24:49 PM - INFO - New connected socket [id: DzSPNQmPjX_-Qk-2AAAH]
+6/1/2022, 5:24:49 PM - INFO - Setting socket.userId = 62972ae453584fc56abe6d26 for socket [id: DzSPNQmPjX_-Qk-2AAAH]
+6/1/2022, 5:25:35 PM - INFO - New connected socket [id: KGqj3ZC4C4I7fresAAAJ]
+6/1/2022, 5:25:36 PM - INFO - New connected socket [id: Z0gqkkKTn7AuQvuJAAAL]
+6/1/2022, 5:25:37 PM - INFO - Setting socket.userId = 62972ae453584fc56abe6d26 for socket [id: KGqj3ZC4C4I7fresAAAJ]
+6/1/2022, 5:26:30 PM - INFO - Server is running on port: 3030
+6/1/2022, 5:26:31 PM - INFO - New connected socket [id: -DY7_3q7ovu9YzkQAAAF]
+6/1/2022, 5:26:31 PM - INFO - New connected socket [id: bVShkT_Szou5yDF9AAAG]
+6/1/2022, 5:26:31 PM - INFO - New connected socket [id: UY6A-VoWxhxedEpFAAAH]
+6/1/2022, 5:26:31 PM - INFO - New connected socket [id: OfgxwEStmVOe1emwAAAI]
+6/1/2022, 5:26:31 PM - INFO - New connected socket [id: 18C_nIgYCrsulveEAAAJ]
+6/1/2022, 5:26:48 PM - INFO - Server is running on port: 3030
+6/1/2022, 5:26:48 PM - INFO - New connected socket [id: Nb3-VRwQpTjlkxriAAAC]
+6/1/2022, 5:26:48 PM - INFO - New connected socket [id: zTyH0GBymCO_D-FGAAAD]
+6/1/2022, 5:26:49 PM - INFO - New connected socket [id: QwacMDsb0CZQi8sbAAAH]
+6/1/2022, 5:26:49 PM - INFO - New connected socket [id: OItDRNATI0S5i5faAAAI]
+6/1/2022, 5:26:49 PM - INFO - New connected socket [id: gnyLKzTN32oHX4VUAAAJ]
+6/1/2022, 5:31:19 PM - INFO - New chat msg from socket [id: gnyLKzTN32oHX4VUAAAJ], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:31:48 PM - INFO - Server is running on port: 3030
+6/1/2022, 5:31:48 PM - INFO - New connected socket [id: dwmr8X6u3miVoi7KAAAB]
+6/1/2022, 5:31:52 PM - INFO - New connected socket [id: 8abbc5BVzdp6fOisAAAD]
+6/1/2022, 5:31:52 PM - INFO - New connected socket [id: D3uU0SHZjunoqyWnAAAF]
+6/1/2022, 5:31:54 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 5:31:54 PM - INFO - New connected socket [id: eoJc43B6O7B2yyfuAAAH]
+6/1/2022, 5:32:00 PM - INFO - New chat msg from socket [id: eoJc43B6O7B2yyfuAAAH], emitting to topic null
+6/1/2022, 5:32:11 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 5:32:11 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 5:32:11 PM - INFO - New connected socket [id: GQNi6BBQaA5qLMkHAAAJ]
+6/1/2022, 5:32:12 PM - INFO - Setting socket.userId = 62972ae453584fc56abe6d26 for socket [id: GQNi6BBQaA5qLMkHAAAJ]
+6/1/2022, 5:32:15 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 5:32:15 PM - INFO - New connected socket [id: ND0w0_XDF3D35MGfAAAL]
+6/1/2022, 5:32:22 PM - INFO - New chat msg from socket [id: ND0w0_XDF3D35MGfAAAL], emitting to topic null
+6/1/2022, 5:33:02 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 5:33:03 PM - INFO - New connected socket [id: IFK3VCt3Xh_lyYi5AAAN]
+6/1/2022, 5:33:06 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic null
+6/1/2022, 5:34:11 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:34:24 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:34:26 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:34:28 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:34:32 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:34:33 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:34:34 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:34:36 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:34:38 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:34:40 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:34:41 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:34:43 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:34:44 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:34:46 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:41:49 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:41:51 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:41:53 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:50:09 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:51:11 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:51:15 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:53:37 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:54:30 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:54:32 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:55:29 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:55:32 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:55:37 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:55:40 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:55:45 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:55:47 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:56:45 PM - DEBUG - Getting Boards
+6/1/2022, 5:56:46 PM - DEBUG - Getting Boards
+6/1/2022, 5:58:14 PM - INFO - New chat msg from socket [id: GQNi6BBQaA5qLMkHAAAJ], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:58:20 PM - DEBUG - Getting Boards
+6/1/2022, 5:58:21 PM - INFO - Socket is leaving topic 6297050327fe8cb3f250cf1f [id: GQNi6BBQaA5qLMkHAAAJ]
+6/1/2022, 5:58:27 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6297050327fe8cb3f250cf1f
+6/1/2022, 5:58:29 PM - INFO - New chat msg from socket [id: GQNi6BBQaA5qLMkHAAAJ], emitting to topic 6296875a6152fef08e6efa43
+6/1/2022, 6:03:09 PM - DEBUG - Getting Boards
+6/1/2022, 6:03:10 PM - INFO - Socket is leaving topic 6296875a6152fef08e6efa43 [id: GQNi6BBQaA5qLMkHAAAJ]
+6/1/2022, 6:03:25 PM - INFO - New connected socket [id: wMnTnd_D7lrwKvLyAAAP]
+6/1/2022, 6:03:30 PM - DEBUG - Getting Boards
+6/1/2022, 6:03:32 PM - INFO - Socket is leaving topic 6297050327fe8cb3f250cf1f [id: IFK3VCt3Xh_lyYi5AAAN]
+6/1/2022, 6:03:37 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6296875a6152fef08e6efa43
+6/1/2022, 6:03:45 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 6:03:46 PM - INFO - New connected socket [id: vHlXhYTfQiuEbIIvAAAR]
+6/1/2022, 6:03:59 PM - DEBUG - Getting Boards
+6/1/2022, 6:04:01 PM - INFO - Socket is leaving topic 62976d43d0cd41731c793939 [id: GQNi6BBQaA5qLMkHAAAJ]
+6/1/2022, 6:04:08 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 6296875a6152fef08e6efa43
+6/1/2022, 6:29:14 PM - DEBUG - Getting Boards
+6/1/2022, 6:29:59 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 6:30:00 PM - INFO - New connected socket [id: 8ULbl7q1O3p_o6ogAAAT]
+6/1/2022, 6:30:00 PM - DEBUG - Getting Boards
+6/1/2022, 6:30:00 PM - INFO - Setting socket.userId = 62972ae453584fc56abe6d26 for socket [id: 8ULbl7q1O3p_o6ogAAAT]
+6/1/2022, 6:30:06 PM - INFO - New chat msg from socket [id: 8ULbl7q1O3p_o6ogAAAT], emitting to topic null
+6/1/2022, 6:30:11 PM - INFO - New chat msg from socket [id: 8ULbl7q1O3p_o6ogAAAT], emitting to topic null
+6/1/2022, 6:30:15 PM - INFO - New chat msg from socket [id: 8ULbl7q1O3p_o6ogAAAT], emitting to topic null
+6/1/2022, 6:30:25 PM - INFO - New chat msg from socket [id: 8ULbl7q1O3p_o6ogAAAT], emitting to topic null
+6/1/2022, 6:30:43 PM - INFO - New chat msg from socket [id: 8ULbl7q1O3p_o6ogAAAT], emitting to topic null
+6/1/2022, 6:30:45 PM - INFO - New chat msg from socket [id: 8ULbl7q1O3p_o6ogAAAT], emitting to topic null
+6/1/2022, 6:32:13 PM - INFO - New chat msg from socket [id: 8ULbl7q1O3p_o6ogAAAT], emitting to topic null
+6/1/2022, 6:32:17 PM - INFO - New chat msg from socket [id: 8ULbl7q1O3p_o6ogAAAT], emitting to topic null
+6/1/2022, 6:32:19 PM - INFO - New chat msg from socket [id: 8ULbl7q1O3p_o6ogAAAT], emitting to topic null
+6/1/2022, 6:35:14 PM - INFO - New chat msg from socket [id: 8ULbl7q1O3p_o6ogAAAT], emitting to topic null
+6/1/2022, 6:35:15 PM - INFO - New chat msg from socket [id: 8ULbl7q1O3p_o6ogAAAT], emitting to topic null
+6/1/2022, 6:41:13 PM - DEBUG - Getting Boards
+6/1/2022, 6:41:26 PM - INFO - New chat msg from socket [id: 8ULbl7q1O3p_o6ogAAAT], emitting to topic 62964d974eca4d1b3a01a777
+6/1/2022, 6:41:28 PM - INFO - New chat msg from socket [id: 8ULbl7q1O3p_o6ogAAAT], emitting to topic 62964d974eca4d1b3a01a777
+6/1/2022, 6:46:58 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 6:46:59 PM - INFO - New connected socket [id: r00Bt8pwfrrTHHFSAAAV]
+6/1/2022, 6:47:00 PM - INFO - Setting socket.userId = 62972ae453584fc56abe6d26 for socket [id: r00Bt8pwfrrTHHFSAAAV]
+6/1/2022, 6:47:07 PM - INFO - New chat msg from socket [id: r00Bt8pwfrrTHHFSAAAV], emitting to topic null
+6/1/2022, 6:47:08 PM - INFO - New chat msg from socket [id: r00Bt8pwfrrTHHFSAAAV], emitting to topic null
+6/1/2022, 6:47:10 PM - INFO - New chat msg from socket [id: r00Bt8pwfrrTHHFSAAAV], emitting to topic null
+6/1/2022, 6:47:13 PM - INFO - New chat msg from socket [id: r00Bt8pwfrrTHHFSAAAV], emitting to topic null
+6/1/2022, 6:47:48 PM - INFO - New chat msg from socket [id: r00Bt8pwfrrTHHFSAAAV], emitting to topic null
+6/1/2022, 6:47:50 PM - INFO - New chat msg from socket [id: r00Bt8pwfrrTHHFSAAAV], emitting to topic null
+6/1/2022, 6:47:55 PM - INFO - New chat msg from socket [id: r00Bt8pwfrrTHHFSAAAV], emitting to topic null
+6/1/2022, 6:47:57 PM - INFO - New chat msg from socket [id: r00Bt8pwfrrTHHFSAAAV], emitting to topic null
+6/1/2022, 6:48:19 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 6:48:20 PM - INFO - New connected socket [id: UX3H8luBp52tuThjAAAX]
+6/1/2022, 6:48:20 PM - INFO - Setting socket.userId = 62972ae453584fc56abe6d26 for socket [id: UX3H8luBp52tuThjAAAX]
+6/1/2022, 6:48:22 PM - DEBUG - Getting Boards
+6/1/2022, 6:48:30 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 6:48:35 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 6:48:37 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 6:48:39 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 6:48:42 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 6:48:44 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 6:53:43 PM - DEBUG - Getting Boards
+6/1/2022, 6:53:44 PM - INFO - Socket is leaving topic 629687566152fef08e6efa42 [id: UX3H8luBp52tuThjAAAX]
+6/1/2022, 6:54:32 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 62976d43d0cd41731c793938
+6/1/2022, 6:55:42 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 62976d43d0cd41731c793938
+6/1/2022, 7:15:10 PM - DEBUG - Getting Boards
+6/1/2022, 7:15:18 PM - DEBUG - Getting Boards
+6/1/2022, 7:15:28 PM - INFO - Socket is leaving topic 62976d43d0cd41731c793938 [id: UX3H8luBp52tuThjAAAX]
+6/1/2022, 7:15:34 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:15:38 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:15:41 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:15:44 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:15:48 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:15:51 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:15:53 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:15:57 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:15:57 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:16:02 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:16:02 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:16:04 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:16:04 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:16:14 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:17:42 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:17:43 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:17:44 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:17:44 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:17:46 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:17:51 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:17:57 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:17:58 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:18:06 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:18:07 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:18:07 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:18:09 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:18:13 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:19:28 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:19:31 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:19:37 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:19:40 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:19:44 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:19:47 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:20:02 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42

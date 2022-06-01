@@ -18,7 +18,7 @@ if (process.env.NODE_ENV === 'production') {
     // Configuring CORS
     const corsOptions = {
         // Make sure origin contains the url your frontend is running on
-        origin: ['http://127.0.0.1:8080', 'http://localhost:8080','http://127.0.0.1:3000', 'http://localhost:3000'],
+        origin: ['http://127.0.0.1:8080', 'http://localhost:8080', 'http://127.0.0.1:3000', 'http://localhost:3000'],
         credentials: true
     }
     app.use(cors(corsOptions))
@@ -27,10 +27,12 @@ if (process.env.NODE_ENV === 'production') {
 const boardRoutes = require('./api/board/board.routes')
 const userRoutes = require('./api/user/user.routes')
 const authRoutes = require('./api/auth/auth.routes')
+const { setupSocketAPI } = require('./services/socket.service')
 
-app.use('/api/board',boardRoutes)
-app.use('/api/user',userRoutes)
-app.use('/api/auth',authRoutes)
+app.use('/api/board', boardRoutes)
+app.use('/api/user', userRoutes)
+app.use('/api/auth', authRoutes)
+setupSocketAPI(http)
 
 
 
