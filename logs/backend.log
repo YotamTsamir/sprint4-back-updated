@@ -847,3 +847,26 @@
 6/1/2022, 7:19:44 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
 6/1/2022, 7:19:47 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
 6/1/2022, 7:20:02 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 629687566152fef08e6efa42
+6/1/2022, 7:24:20 PM - INFO - Socket is leaving topic 6296875a6152fef08e6efa43 [id: IFK3VCt3Xh_lyYi5AAAN]
+6/1/2022, 7:24:20 PM - INFO - Socket is leaving topic 629687566152fef08e6efa42 [id: UX3H8luBp52tuThjAAAX]
+6/1/2022, 7:26:41 PM - DEBUG - Getting Boards
+6/1/2022, 7:27:14 PM - DEBUG - Getting Boards
+6/1/2022, 7:27:15 PM - INFO - Socket is leaving topic 629687566152fef08e6efa42 [id: IFK3VCt3Xh_lyYi5AAAN]
+6/1/2022, 7:27:18 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 62964d974eca4d1b3a01a777
+6/1/2022, 7:27:22 PM - INFO - New chat msg from socket [id: IFK3VCt3Xh_lyYi5AAAN], emitting to topic 62964d974eca4d1b3a01a777
+6/1/2022, 7:27:24 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 6297909d5873dd5a85b200fc
+6/1/2022, 7:27:31 PM - INFO - New chat msg from socket [id: UX3H8luBp52tuThjAAAX], emitting to topic 6297909d5873dd5a85b200fc
+6/1/2022, 7:27:48 PM - INFO - Server is running on port: 3030
+6/1/2022, 7:27:50 PM - INFO - New connected socket [id: sy3neNbPoAhkhdcaAAAD]
+6/1/2022, 7:27:50 PM - INFO - New connected socket [id: A5_gLU2ywsC5LlVOAAAE]
+6/1/2022, 7:27:50 PM - INFO - New connected socket [id: rt1a4HfAljmnkdIbAAAF]
+6/1/2022, 7:28:07 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 7:28:15 PM - INFO - New connected socket [id: nRXWcIP0L45kc4sDAAAH]
+6/1/2022, 7:28:18 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 7:28:24 PM - INFO - New connected socket [id: 2E0EpCnG818SRt6sAAAJ]
+6/1/2022, 7:28:25 PM - DEBUG - Getting Boards
+6/1/2022, 7:28:30 PM - DEBUG - Getting Boards
+6/1/2022, 7:28:36 PM - INFO - New chat msg from socket [id: 2E0EpCnG818SRt6sAAAJ], emitting to topic null
+6/1/2022, 7:28:40 PM - INFO - New chat msg from socket [id: 2E0EpCnG818SRt6sAAAJ], emitting to topic null
+6/1/2022, 7:29:12 PM - INFO - New chat msg from socket [id: 2E0EpCnG818SRt6sAAAJ], emitting to topic null
+6/1/2022, 7:29:14 PM - INFO - New chat msg from socket [id: 2E0EpCnG818SRt6sAAAJ], emitting to topic null
