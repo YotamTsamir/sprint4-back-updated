@@ -870,3 +870,12 @@
 6/1/2022, 7:28:40 PM - INFO - New chat msg from socket [id: 2E0EpCnG818SRt6sAAAJ], emitting to topic null
 6/1/2022, 7:29:12 PM - INFO - New chat msg from socket [id: 2E0EpCnG818SRt6sAAAJ], emitting to topic null
 6/1/2022, 7:29:14 PM - INFO - New chat msg from socket [id: 2E0EpCnG818SRt6sAAAJ], emitting to topic null
+6/1/2022, 7:36:01 PM - INFO - Server is running on port: 3030
+6/1/2022, 7:36:01 PM - INFO - New connected socket [id: -Rj8A3Zim8lWm1dGAAAB]
+6/1/2022, 7:36:01 PM - INFO - New connected socket [id: w9SW4akr2sXDYsAhAAAD]
+6/1/2022, 7:36:05 PM - INFO - Socket disconnected [id: undefined]
+6/1/2022, 7:36:06 PM - INFO - New connected socket [id: F6tx3_bC4pDFs8PLAAAF]
+6/1/2022, 7:36:06 PM - INFO - New connected socket [id: IoG8uwqr5I3pMSuwAAAH]
+6/1/2022, 7:36:10 PM - INFO - New chat msg from socket [id: F6tx3_bC4pDFs8PLAAAF], emitting to topic null
+6/1/2022, 7:36:12 PM - INFO - New chat msg from socket [id: F6tx3_bC4pDFs8PLAAAF], emitting to topic null
+6/1/2022, 7:40:44 PM - INFO - New chat msg from socket [id: F6tx3_bC4pDFs8PLAAAF], emitting to topic null
