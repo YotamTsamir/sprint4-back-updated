@@ -72,6 +72,7 @@ async function update(user) {
             username: user.username,
             fullname: user.fullname,
             email:user.email,
+            notifications:user.notifications,
             img: user.img
         }
         const collection = await dbService.getCollection('users')
@@ -90,7 +91,9 @@ async function add(user) {
             username: user.username,
             password: user.password,
             fullname: user.fullname,
-            email:user.email
+            email:user.email,
+            avatar:user.avatar,
+            notifications:[]
             
         }
         const collection = await dbService.getCollection('users')

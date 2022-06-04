@@ -10,7 +10,7 @@ async function query(filterBy) {
 
         const collection = await dbService.getCollection('boards')
         var boards = await collection.find(criteria).toArray()
-        console.log(boards)
+        // console.log(boards)
         // return collection
         return boards
     } catch (err) {
@@ -85,7 +85,7 @@ async function getById(boardId) {
 
 async function update(board) {
     try {
-        console.log('board is', board)
+        // console.log('board is', board)
         var id = ObjectId(board._id)
         delete board._id
         const collection = await dbService.getCollection('boards')
